@@ -9,6 +9,5 @@ helloc
 
 # world
 
-#dad
 dafea
 ss
